@@ -55,8 +55,8 @@ Cara menambahkan repository ini ke firmware, dapat menggunakan 2 cara yaitu:
   3. Pada bagian custom feeds tambahkan list dibawah ini
 
       ```
-      src/gz custom_generic https://raw.githubusercontent.com/lrdrdn/my-opkg-repo/main/generic
-      src/gz custom_arch https://raw.githubusercontent.com/lrdrdn/my-opkg-repo/main/aarch64_generic
+      src/gz custom_generic https://raw.githubusercontent.com/Houjie80/my-opkg-repo/main/generic
+      src/gz custom_arch https://raw.githubusercontent.com/Houjie80/my-opkg-repo/main/aarch64_generic
       ```
 
       ubah **arm_cortex-a7_neon-vfpv4** dan sesuaikan arsitektur CPU router OpenWrt kalian
